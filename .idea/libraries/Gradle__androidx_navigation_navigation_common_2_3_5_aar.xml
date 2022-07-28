@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.navigation:navigation-common:2.3.5@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/Telegram Desktop/Send-and-receive-SMS-master/caches/transforms-3/29cf3192ff2e7040423d2d9e97f16f58/transformed/navigation-common-2.3.5/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/Telegram Desktop/Telegram Desktop/Send-and-receive-SMS-master/caches/transforms-3/29cf3192ff2e7040423d2d9e97f16f58/transformed/navigation-common-2.3.5/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/Telegram Desktop/Telegram Desktop/Send-and-receive-SMS-master/caches/transforms-3/29cf3192ff2e7040423d2d9e97f16f58/transformed/navigation-common-2.3.5/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/Telegram Desktop/Telegram Desktop/Send-and-receive-SMS-master/caches/modules-2/files-2.1/androidx.navigation/navigation-common/2.3.5/8ac119554c336ee331c12b667b4e3f5f725616da/navigation-common-2.3.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
